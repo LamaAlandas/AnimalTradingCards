@@ -1,0 +1,40 @@
+/* add your CSS here */
+.container{
+    margin: 10px 10px 10px 10px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    box-shadow: 10px 10px hsla(0, 2%, 91%, 0.8);
+    padding: 15px;
+    width: 300px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.box{
+    margin: 10px 0px 0px 0px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    padding: 10px;
+    width: 280px;
+    align-content: left;
+}
+
+#paragraph {
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+span {
+    font-weight: bold;
+}
